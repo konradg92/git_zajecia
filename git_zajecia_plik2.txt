@@ -1,2 +1,3 @@
 drugi
 to jest nasz plik do brancha
+testujemy dalej ... 
